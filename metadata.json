@@ -1,0 +1,5 @@
+{
+  "name": "QRIS Merchant Maker",
+  "description": "Platform pembuatan QRIS Merchant otomatis dengan fitur admin dan dashboard pengguna.",
+  "requestFramePermissions": []
+}
